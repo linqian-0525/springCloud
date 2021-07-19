@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <type id="Spring" />
+  </component>
   <component name="JavaScriptSettings">
     <option name="languageLevel" value="ES6" />
   </component>
@@ -7,7 +10,13 @@
     <option name="originalFiles">
       <list>
         <option value="$PROJECT_DIR$/com.atguigu.springCloud/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml" />
       </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/com.atguigu.springCloud/cloud-consumer-feign-hystrix-order80/pom.xml" />
+      </set>
     </option>
   </component>
   <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />

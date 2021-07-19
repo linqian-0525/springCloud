@@ -4,13 +4,18 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-api-commons/cloud-api-commons.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-api-commons/cloud-api-commons.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-consumer-feign-order80/cloud-consumer-feign-order80.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-consumer-hystrix-dashboard9001/cloud-consumer-hystrix-dashboard9001.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-consumer-order80/cloud-consumer-order80.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-consumer-order80/cloud-consumer-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-eureka-server7001/cloud-eureka-server7001.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-eureka-server7001/cloud-eureka-server7001.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-eureka-server7002/cloud-eureka-server7002.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-eureka-server7002/cloud-eureka-server7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-gateway-gateway9527/cloud-gateway-gateway9527.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8001/cloud-provider-payment8001.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8001/cloud-provider-payment8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8002/cloud-provider-payment8002.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8002/cloud-provider-payment8002.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/com.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/com.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/consumer-feign-hystrix-order80/consumer-feign-hystrix-order80.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/consumer-feign-hystrix-order80/consumer-feign-hystrix-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/springcloud.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/springcloud.iml" />
     </modules>
   </component>
 </project>
