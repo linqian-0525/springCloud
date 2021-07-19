@@ -4,6 +4,7 @@ package springcloud.controller;
 import com.atguigu.springCloud.entities.CommonResult;
 import com.atguigu.springCloud.entities.Payment;
 import lombok.extern.slf4j.Slf4j;
+import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.*;
 import springcloud.service.PaymentService;
 
@@ -16,6 +17,8 @@ public class PaymentController {
     @Resource
     private PaymentService paymentService;
 
+    @Value("${server.port}")        //获取端口号
+    private String serverPort;
 
     @PostMapping(value = "/payment/create")
     public CommonResult create(@RequestBody Payment payment) {
@@ -36,5 +39,8 @@ public class PaymentController {
             return new CommonResult(444, "数据查询失败测试", null);
         }
     }
-
+    @GetMapping("/payment/lb")
+    public String getPaymentLB(){
+        return serverPort;
+    }
 }
