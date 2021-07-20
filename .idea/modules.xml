@@ -12,10 +12,11 @@
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-hystrix-payment8001/cloud-provider-hystrix-payment8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8001/cloud-provider-payment8001.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8001/cloud-provider-payment8001.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8002/cloud-provider-payment8002.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8002/cloud-provider-payment8002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-stream-rabbitmq-consumer8801/cloud-stream-rabbitmq-consumer8801.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/cloud-stream-rabbitmq-consumer8801/cloud-stream-rabbitmq-consumer8801.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/com.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/com.iml" />
       <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/consumer-feign-hystrix-order80/consumer-feign-hystrix-order80.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/consumer-feign-hystrix-order80/consumer-feign-hystrix-order80.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/springCloud.iml" filepath="$PROJECT_DIR$/.idea/springCloud.iml" />
-      <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/springcloud.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/springcloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/com.atguigu.springCloud/stream-rabbitmq-consumer8802/stream-rabbitmq-consumer8802.iml" filepath="$PROJECT_DIR$/com.atguigu.springCloud/stream-rabbitmq-consumer8802/stream-rabbitmq-consumer8802.iml" />
     </modules>
   </component>
 </project>

@@ -11,11 +11,14 @@
       <list>
         <option value="$PROJECT_DIR$/com.atguigu.springCloud/pom.xml" />
         <option value="$PROJECT_DIR$/cloud-consumer-feign-hystrix-order80/pom.xml" />
+        <option value="$PROJECT_DIR$/cloud-stream-rabbitmq-consumer8802/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
       <set>
         <option value="$PROJECT_DIR$/com.atguigu.springCloud/cloud-consumer-feign-hystrix-order80/pom.xml" />
+        <option value="$PROJECT_DIR$/com.atguigu.springCloud/cloud-stream-rabbitmq-consumer8802/pom.xml" />
+        <option value="$PROJECT_DIR$/com.atguigu.springCloud/cloud-stream-rabbitmq-consumer8803/pom.xml" />
       </set>
     </option>
   </component>

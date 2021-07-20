@@ -20,7 +20,11 @@
     <file url="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8001/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8002/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-provider-payment8002/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-stream-rabbitmq-consumer8801/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.atguigu.springCloud/cloud-stream-rabbitmq-consumer8801/src/main/resources" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/com.atguigu.springCloud/consumer-feign-hystrix-order80/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/com.atguigu.springCloud/consumer-feign-hystrix-order80/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.atguigu.springCloud/stream-rabbitmq-consumer8802/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/com.atguigu.springCloud/stream-rabbitmq-consumer8802/src/main/resources" charset="UTF-8" />
   </component>
 </project>
